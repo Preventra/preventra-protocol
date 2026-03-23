@@ -1,0 +1,38 @@
+{
+  "name": "@preventra/sdk",
+  "version": "0.1.0",
+  "description": "TypeScript SDK for the Preventra Protocol on Solana",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "clean": "rm -rf dist",
+    "prebuild": "npm run clean"
+  },
+  "peerDependencies": {
+    "@coral-xyz/anchor": ">=0.32.0",
+    "@solana/web3.js": ">=1.90.0"
+  },
+  "devDependencies": {
+    "@coral-xyz/anchor": "^0.32.1",
+    "@solana/web3.js": "^1.95.0",
+    "typescript": "^5.7.3"
+  },
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Preventra/preventra-protocol.git",
+    "directory": "sdk/typescript"
+  },
+  "keywords": [
+    "solana",
+    "anchor",
+    "preventra",
+    "governance",
+    "ai-agents",
+    "provenance"
+  ]
+}

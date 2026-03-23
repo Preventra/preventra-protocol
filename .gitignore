@@ -8,3 +8,5 @@ test-ledger
 .env
 .env.local
 *.pem
+.clawburt-identity.json
+sdk/typescript/dist
