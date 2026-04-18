@@ -1,3 +1,13 @@
+> # ARCHIVED
+>
+> This repository is preserved as a read-only historical reference. It contains the Phase 0 exploration under a previous Preventra vision and is no longer maintained.
+>
+> **The active Preventra project is at [github.com/Preventra/preventra](https://github.com/Preventra/preventra).**
+>
+> The code and documentation below are retained for transparency and historical continuity. They do not reflect the current direction of the protocol.
+>
+> ---
+
 # Preventra Protocol
 
 Governance, trust, and provenance for autonomous AI agents on Solana.
